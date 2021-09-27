@@ -1,5 +1,5 @@
 - 👋 Hi I'm Rushikesh Tole
 - 🌱 I’m currently learning Full Stack Developer
-- 👯 I’m looking to collaborate on...
+- 👯 I’m looking to collaborate on...******
 - 📫 How to reach me: rushikeshtole19@gmail.com
 - 😄 Pronouns: Rushikesh
