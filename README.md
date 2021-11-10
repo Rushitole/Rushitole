@@ -45,7 +45,7 @@
 🌱 I’m currently learning Full Stack Web Devloper**🥰<br>
 🔭 I’m looking to collaborate with any *Web Devlopment projects*<br>
 
-📰 My First Web Page (https://github.com/Rushitole/my-todo-app-using-django.git)<br><br><br>
+📰 My First todo app (https://github.com/Rushitole/my-todo-app-using-django.git)<br><br><br>
  
 ### 🛠 &nbsp;Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
