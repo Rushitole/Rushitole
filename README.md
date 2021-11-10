@@ -42,7 +42,7 @@
 
 💡 I like to explore new technologies and develop solutions and quick hacks <br>
 👀 I’m interested in python <br>
-🌱 I’m currently learning Full Stack Web Developer**🥰<br>
+🌱 I’m currently learning Full Stack Web Developer<br>
 🔭 I’m looking to collaborate with any *Web Development projects*<br>
 
 📰 My First todo app (https://github.com/Rushitole/my-todo-app-using-django.git)<br><br><br>
