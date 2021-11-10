@@ -26,7 +26,7 @@
 <p align="center">
   <em>
     Hello, I am  a <b>graduated</b> from <b>Shri Shivaji Science College</b>, India </a>. <br>
-    <b>a passionate self-learner and self motivated</b> and a <b>Full Stack Web Devloper</b>&nbsp;&nbsp,<br>and always looking to find path of which are helful in learning Web Devloper 
+    <b>a passionate self-learner and self motivated </b> and a <b>Full Stack Web Developer</b>&nbsp;&nbsp,<br>and always looking to find path of which are helpful learning Web Developer<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Developer.gif" width="30px" style="max-width: 100%;"> 
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "work is worship!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -42,8 +42,8 @@
 
 💡 I like to explore new technologies and develop solutions and quick hacks <br>
 👀 I’m interested in python <br>
-🌱 I’m currently learning Full Stack Web Devloper**🥰<br>
-🔭 I’m looking to collaborate with any *Web Devlopment projects*<br>
+🌱 I’m currently learning Full Stack Web Developer**🥰<br>
+🔭 I’m looking to collaborate with any *Web Development projects*<br>
 
 📰 My First todo app (https://github.com/Rushitole/my-todo-app-using-django.git)<br><br><br>
  
