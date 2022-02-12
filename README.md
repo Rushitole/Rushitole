@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=red&size=30&lines=Hello!+It's+Rushikesh!;Full+Stack+Developer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=red&size=30&lines=Hello!+It's+Rushikesh+Tole!;Full+Stack+Developer...;)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="200"/>
 </p>
