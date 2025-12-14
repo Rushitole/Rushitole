@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=red&size=30&lines=Hello!+It's+Rushikesh+Tole!;Full+Stack+Developer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=red&size=30&lines=Hello!+It's+Rushikesh+Tole!;Devops+Engineer+...;)](https://git.io/typing-svg)
 <p align="center">
-  ### 🚀 DevOps Skills
+  🚀 DevOps Skills
 AWS | Docker | Kubernetes | Jenkins | CI/CD | Linux | Git
 </p>
 
