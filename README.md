@@ -9,7 +9,7 @@ AWS | Docker | Kubernetes | Jenkins | CI/CD | Linux | Git
 
 ## 🏆 Certifications
 
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/100x100/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/106ec314-4524-4676-a033-cce4d6fa62ac/public_url)
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/120x120/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/106ec314-4524-4676-a033-cce4d6fa62ac/public_url)
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Rushitole&color=brightgreen" alt="watching_count" />
