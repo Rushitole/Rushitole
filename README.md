@@ -1,9 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=red&size=30&lines=Hello!+It's+Rushikesh+Tole!;Full+Stack+Developer...;)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="200"/>
+  ### 🚀 DevOps Skills
+AWS | Docker | Kubernetes | Jenkins | CI/CD | Linux | Git
 </p>
 
 <br>
+
+
+## 🏆 Certifications
+
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/340x340/images/6f5e5e1f-2f0a-4a89-b4e8-9a2e45c7c0e8/image.png)](https://www.credly.com/badges/106ec314-4524-4676-a033-cce4d6fa62ac/public_url)
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Rushitole&color=brightgreen" alt="watching_count" />
